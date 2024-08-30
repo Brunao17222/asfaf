@@ -1,0 +1,20 @@
+body {
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: purple;
+}
+
+.video1{
+    text-align: center;
+}
+.video2{text-align: center;
+}
+.imagem{text-align: center; }
+.title{text-align: center;}
+img {
+    height: 200px;
+ 
+  }
+  .video{
+    text-align: center;
+  }
